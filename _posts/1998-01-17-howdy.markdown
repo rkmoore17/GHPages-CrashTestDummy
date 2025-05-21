@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Hello There"
+date:   2021-03-21 14:30:48 +1000
+categories: ronnie test
+---
+
+This is a test of the capabilities of Jekyll as a blogging platform for a static site. This is a markdown format document, which then translates to HTML in the final build
